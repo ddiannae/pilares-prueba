@@ -1,0 +1,3 @@
+ls -la
+date
+hostname
